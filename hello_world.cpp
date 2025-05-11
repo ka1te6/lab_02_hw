@@ -1,4 +1,5 @@
-#include <iostream> // connected for input/output work
+#include <iostream> // подключено для работы с вводом/выводом
+
 // я уже убрал это ранее, поэтому просто оставлю комментарий
 int
 main()
