@@ -1,5 +1,5 @@
-#include <iostream>
-
+#include <iostream> // подключено для работы с вводом/выводом
+//я уже убрал это ранее, поэтому просто оставлю комментарий
 int main(){
   std::string name;
   std::cin >> name;
