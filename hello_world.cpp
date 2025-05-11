@@ -1,5 +1,5 @@
 #include <iostream> // connected for input/output work
-// I already removed this earlier, so I'll just leave a comment
+// я уже убрал это ранее, поэтому просто оставлю комментарий
 int
 main()
 {
